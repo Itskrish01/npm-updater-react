@@ -13,11 +13,11 @@ export default function Header() {
         </div>
         <div className="flex">
           <a
-            href="https://www.npmjs.com"
+            href="https://itskrish01-portfolio.netlify.app/"
             target="_blank"
             className="text-sm font-semibold leading-6 text-white"
           >
-            NPM <span aria-hidden="true">&rarr;</span>
+            About me <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
       </nav>

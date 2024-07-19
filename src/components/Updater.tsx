@@ -93,7 +93,7 @@ const Updater = () => {
         <h1 className="text-7xl font-bold tracking-tight text-[#dbdbdd] w-1/2">
           UPDATE YOU NPM PACKAGES
         </h1>
-        <p className="text-[#dbdbdd] font-light text-xl mt-2 inline-flex items-center gap-2 justify-center">
+        <p className="text-[#dbdbdd] font-light text-xl mb-7 mt-2 inline-flex items-center gap-2 justify-center">
           Paste your package.json here{" "}
           <ArrowDownCircleIcon className="h-6 w-6 animate-bounce" />
         </p>
@@ -111,7 +111,7 @@ const Updater = () => {
         </div>
       )}
 
-      <div className="flex justify-between rounded-lg gap-10 mt-2">
+      <div className="flex justify-between rounded-lg gap-10 my-2">
         <div className="w-full bg-[#2f3343] px-0.5 pb-0.5 ">
           <div className="flex items-center justify-between p-1">
             <h4 className="text-base uppercase px-2 font-medium tracking-tight text-[#dbdbdd]">
