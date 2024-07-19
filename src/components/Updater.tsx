@@ -1,6 +1,5 @@
 import {
   ArrowDownCircleIcon,
-  CheckBadgeIcon,
   CheckCircleIcon,
 } from "@heroicons/react/16/solid";
 import * as monaco from "monaco-editor";
