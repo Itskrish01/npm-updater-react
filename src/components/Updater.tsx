@@ -91,7 +91,7 @@ const Updater = () => {
     <div className="mx-auto max-w-7xl px-3 mt-10">
       <div>
         <h1 className="text-7xl font-bold tracking-tight text-[#dbdbdd] w-1/2">
-          UPDATE YOU NPM PACKAGES
+          UPDATE YOUR NPM PACKAGES
         </h1>
         <p className="text-[#dbdbdd] font-light text-xl mb-7 mt-2 inline-flex items-center gap-2 justify-center">
           Paste your package.json here{" "}
